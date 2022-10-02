@@ -6,8 +6,6 @@
 
 - 👯 I’m looking to collaborate on **Backend Development with Django**
 
-- 🕑 In free time I'm focusing on **Data Analysis**
-
 - 💬 Ask me about **Android, Django, SQL, Software**
 
 - 📫 How to reach me **vaclavsr@post.cz**
