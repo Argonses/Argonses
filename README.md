@@ -11,7 +11,7 @@
 
 - ⚡️ Interested in **APIs and GraphQL**
 
-- 🥸 Learning **Machine Learning and Data Analysis**
+- 🥸 Learning (for hobby) **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
