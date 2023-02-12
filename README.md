@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔨 Currently developing Web apps<br>⚡️ Interested in APIs<br>🥸 Trying to learn Machine Learning<br>🤪 Using some frontend stuff<br>🌱 Always learning<br>💬 Ask me about Linux, Servers, Backend
+🔨 Currently developing Web apps<br>⚡️ Interested in APIs<br>🥸 Trying to learn Machine Learning<br>🌱 Always learning<br>💬 Ask me about Linux, Servers, Backend
 
 
 ## 🌐 Socials:
