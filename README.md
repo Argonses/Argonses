@@ -9,12 +9,11 @@
 
 - 👯 I’m looking to collaborate on **C# Development**
 
+- 💬 Ask me about **Backend, Servers, APIs, AI, ML, Math, Linux**
+
 - 🌱 Always learning **New Skills**
 
 - 🤖 Learning **Machine Learning**
-
-- 💬 Ask me about **Backend, Servers, APIs, AI, Linux**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
